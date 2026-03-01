@@ -38,9 +38,9 @@ FoodCalorieBot решает эту проблему. Просто сфотогр
 
 🖼️ Как это работает?
 Шаг 1. Ты скидываешь картинку
-<img width="500" height="300" alt="Отправка фото" src="https://github.com/user-attachments/assets/5679a8cb-dcd3-4d90-8578-95bade83157c" />
+<img width="900" height="400" alt="Отправка фото" src="https://github.com/user-attachments/assets/5679a8cb-dcd3-4d90-8578-95bade83157c" />
 Шаг 2. Бот анализирует и выводит результат
-<img width="500" height="300" alt="Результат анализа" src="https://github.com/user-attachments/assets/7b774a7a-27a5-49bf-a83d-4f6476854970" />
+<img width="800" height="436" alt="Результат анализа" src="https://github.com/user-attachments/assets/7b774a7a-27a5-49bf-a83d-4f6476854970" />
 Шаг 3. Получаешь детальный отчет
 📊 РЕЗУЛЬТАТЫ АНАЛИЗА
 ═══════════════════════
